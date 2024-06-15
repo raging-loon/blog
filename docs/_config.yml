@@ -18,12 +18,13 @@ email: cxmacolley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My blob
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://raging-loon.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: raging-loon.github.io
 #twitter_username: jekyllrb
 github_username:  raging-loon
 
 # Build settings
-markdown: GFM
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
