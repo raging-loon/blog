@@ -25,10 +25,7 @@ github_username:  raging-loon
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+theme: just-the-docs
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
