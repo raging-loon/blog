@@ -22,7 +22,7 @@ url: https://raging-loon.github.io/blog/ # the base hostname & protocol for your
 domain: raging-loon.github.io
 #twitter_username: jekyllrb
 github_username:  raging-loon
-
+ 
 # Build settings
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs@v0.8.2
