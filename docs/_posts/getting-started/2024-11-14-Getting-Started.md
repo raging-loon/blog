@@ -59,5 +59,6 @@ PUBLIC
 
 Our `main.cpp` file just contains hello.
 
+![first build](/blog/assets/images/first-build.png)
 
-
+You can find the current state of the project in [this commit](https://github.com/raging-loon/Kestrel/tree/a396270e83a5db0cf2f116fb502509645b7cf302)

@@ -39,5 +39,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-sass:
-  style:  compact
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
